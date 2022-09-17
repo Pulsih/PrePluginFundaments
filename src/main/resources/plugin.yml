@@ -1,0 +1,5 @@
+name: PrePluginFundaments
+version: '${version}'
+main: me.pulsi_.prepluginfundaments.PrePluginFundaments
+api-version: 1.19
+authors: [ Pulsi_ ]
